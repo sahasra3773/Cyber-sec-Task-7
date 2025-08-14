@@ -1,0 +1,27 @@
+Task 7 - Identify and Remove Suspicious Browser Extensions
+===========================================================
+
+Procedure:
+1. Open your web browser (Chrome, Firefox, etc.).
+2. Go to the Extensions/Add-ons Manager:
+   - Chrome: Menu (⋮) → More Tools → Extensions
+   - Firefox: Menu (☰) → Add-ons and Themes → Extensions
+3. Review all installed extensions carefully.
+4. Check the following for each extension:
+   - Name and developer
+   - Permissions requested
+   - Reviews and ratings
+5. Identify suspicious or unused extensions:
+   - Unknown or untrusted developer
+   - Excessive permissions (e.g., read all browsing history)
+   - Poor reviews or flagged as malicious
+6. Remove suspicious/unnecessary extensions:
+   - Chrome: Click "Remove"
+   - Firefox: Click "Remove"
+7. Restart your browser and check performance improvements.
+8. Research how malicious extensions can harm users.
+9. Document:
+   - List of removed extensions
+   - Reasons for removal
+   - Security lessons learned
+10. Save this procedure, readme, and report to GitHub.
