@@ -1,0 +1,21 @@
+Task 7 - Suspicious Browser Extensions Removal Report
+======================================================
+
+Date: DD/MM/YYYY
+Browser Used: Chrome/Firefox
+
+Suspicious Extensions Found and Removed:
+1. Example Extension - Reason: Unknown developer, requests to read browsing history.
+2. AdBlockerX - Reason: Poor reviews, flagged by security forums.
+
+Security Risks of Malicious Extensions:
+- Can steal browsing data, including saved passwords.
+- Can inject ads or malicious scripts into websites.
+- Can track user activity and sell data to third parties.
+
+Security Best Practices Learned:
+- Install extensions only from trusted developers.
+- Review permissions before installing.
+- Keep extensions updated.
+- Regularly audit installed extensions.
+- Remove any unused or suspicious extensions immediately.
